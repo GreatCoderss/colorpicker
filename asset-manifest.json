@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/colorpicker/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/colorpicker/static/js/main.0080d7d0.chunk.js",
+    "main.js.map": "/colorpicker/static/js/main.0080d7d0.chunk.js.map",
+    "runtime-main.js": "/colorpicker/static/js/runtime-main.2d43dcc6.js",
+    "runtime-main.js.map": "/colorpicker/static/js/runtime-main.2d43dcc6.js.map",
+    "static/js/2.ac970fa3.chunk.js": "/colorpicker/static/js/2.ac970fa3.chunk.js",
+    "static/js/2.ac970fa3.chunk.js.map": "/colorpicker/static/js/2.ac970fa3.chunk.js.map",
+    "index.html": "/colorpicker/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/colorpicker/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ac970fa3.chunk.js.LICENSE.txt": "/colorpicker/static/js/2.ac970fa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d43dcc6.js",
+    "static/js/2.ac970fa3.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0080d7d0.chunk.js"
+  ]
+}
