@@ -9,7 +9,7 @@ export default function Navbar({ Color, handleOnChange }) {
     <AppBar position='static'>
       <Toolbar className={classes.toolBar}>
         <Typography variant='h6' style={{ color: Color }}>
-          ColorPallet
+          Color Palette
         </Typography>
         <input
           type='color'
