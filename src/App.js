@@ -1,7 +1,9 @@
-import "./App.css";
+// import "./App.css";
 import HeaderComponent from "./Components/HeaderComponent";
+import useStyles from './Styles.js
 
 function App() {
+  const classes = useStyles()
   return <HeaderComponent />;
 }
 
